@@ -1,0 +1,27 @@
+.Footer{
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.Footer ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin:15px;
+    justify-content: space-between;
+}
+
+.Footer li{
+    margin: 15px;
+}
+
+.Footer a{
+    color: #21243D;
+}
+
+.Footer p{
+    margin-bottom: 25px;
+}

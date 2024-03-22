@@ -1,0 +1,30 @@
+.AboutMe{
+    background-color: #edf7fa;
+    margin-top: 70px ;
+    margin-right: 10%;
+    padding: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: justify;
+}
+
+.AboutMe div{
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin-top: 60px;
+    align-items: center;
+    text-align: justify;
+    margin-left: 13%;
+}
+
+.AboutMe h4{
+    position:absolute;
+    left: 18%;
+    margin-bottom: 40px;
+}
+
+
+
+
+

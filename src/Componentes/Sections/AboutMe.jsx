@@ -11,8 +11,9 @@ function AboutMe(){
                     que busca uma migração de carreira. Aprendi <br/>
                     muito na carreira que trilhei até aqui, mas<br/>
                     sinto que seja a hora de ingressar em uma área <br/>
-                    que me identico, de fato! Sou graduado em <br/>
-                    Gestão Financeira, falo inglês e estudo francês. <br/> 
+                    que me identico, de fato!<br/><br/>
+                    Sou graduado em Gestão Financeira, falo inglês e<br/>
+                    estudo francês. <br/> 
                 </p>
             </div>
             <div>
@@ -20,8 +21,10 @@ function AboutMe(){
                 <p>
                     As habilidades que desenvolvi nessa jordada de <br/>
                     aprendizado e, que sei utilizá-las, são: HTML, <br/>
-                    CSS, JavaScript, React e Figma.<br/>
-                    Porém, não irei parar por aqui!
+                    CSS, JavaScript, React e Figma.<br/><br/>
+                    Sigo fortalecendo os conhecimentos nas <br/>
+                    habilidades já aprendidas e buscando conhecimentos<br/>
+                    em novas habilidades! 
                 </p>
             </div>
 

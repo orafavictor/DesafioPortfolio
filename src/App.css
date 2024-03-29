@@ -4,7 +4,7 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   color: black;
-  background-color: rgb(195, 244, 203);
+  background-color:   rgba(208, 221, 250, 0.75);
 }
 
 code {

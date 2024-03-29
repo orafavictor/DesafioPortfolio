@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: "Heebo", sans-serif;
   color: #000000;
-  /* background-color: rgb(195, 244, 203); */
+  background-color:   rgba(208, 221, 250, 0.75);
   background-image: url('./Image/background.svg');
 }
 

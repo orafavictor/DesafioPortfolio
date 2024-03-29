@@ -20,7 +20,7 @@ function AboutMe(){
             <h1> Habilidades aprendidas </h1>
                 <p>
                     As habilidades que desenvolvi nessa jordada de <br/>
-                    aprendizado e, que sei utilizá-las, são: HTML, <br/>
+                    aprendizado são: HTML, <br/>
                     CSS, JavaScript, React e Figma.<br/><br/>
                     Sigo fortalecendo os conhecimentos nas <br/>
                     habilidades já aprendidas e buscando conhecimentos<br/>

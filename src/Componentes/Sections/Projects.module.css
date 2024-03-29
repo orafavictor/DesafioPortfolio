@@ -1,6 +1,6 @@
 .Projects{
     margin: 10px;
-    margin-left: 15%;
+    margin-left: 10%;
     margin-right: 15%;
     display: grid;
     padding: 20px;
@@ -12,16 +12,17 @@
     margin-top: 10px;
     margin-bottom: 30px solid ;
     padding: 20px;
-      
+    
 }
 
 .Projects img{
     float: left;
-    width: 300px;
+    width: 500px;
     height: 220px;
     padding: 20px;
-    margin-right: 40px;
-    
+    margin-right: 10px;
+    border-radius: 10px;   
+    cursor: pointer;
 }
 
 .Projects h1{
@@ -32,6 +33,7 @@
     position: top absolute;
 }
 
-#only{
-    border-bottom: 3px solid #e0e0e0;  
+.Projects img:hover{
+    transform: translateY(-10px);
+    transition-duration: 0.5s;
 }

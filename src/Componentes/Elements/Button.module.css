@@ -1,16 +1,17 @@
 .btn{
-    background-color: #ff6464;
+    background-color: #4551ff;
     border: none;
     padding: 10px;
     font-weight: bolder;
     margin-top: 15px;
+    border-radius: 10px;
     cursor: pointer;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
 }
 
 .btn:hover{
-    color: #720000;
-    background-color: #efa6a6;
+    color: #000072;
+    background-color: #3030ef69;
     transform: translateY(-7px);
     transition-duration: 0.5s;
 }

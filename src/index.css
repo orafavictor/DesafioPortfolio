@@ -1,8 +1,9 @@
 body {
   margin: 0;
   font-family: "Heebo", sans-serif;
-  color: #21243D;
-  background-color: white;
+  color: #000000;
+  /* background-color: rgb(195, 244, 203); */
+  background-image: url('./Image/background.svg');
 }
 
 code {
